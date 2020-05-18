@@ -1,12 +1,12 @@
 00#BOOK#URI######: 0305AbuCuthmanDimashqi.MadkhalFurfuriyus
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Madkhal Furfuriyūs al-Ṣūrī tilmīdh Aflūṭīn
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: [Porphyry, Isagoge]
-    > [Athanasius of Balad?, Syriac translation of Porphyry's Isagoge] (TRANSL)
-    > 0305AbuCuthmanDimashqi.MadkhalFurfuriyus (TRANSL)
+40#BOOK#ABRIDGED#: [Porphyry, Isagoge] > [Athanasius of Balad?, Syriac
+    translation of Porphyry's Isagoge] (TRANSL) >
+    0305AbuCuthmanDimashqi.MadkhalFurfuriyus (TRANSL)
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
