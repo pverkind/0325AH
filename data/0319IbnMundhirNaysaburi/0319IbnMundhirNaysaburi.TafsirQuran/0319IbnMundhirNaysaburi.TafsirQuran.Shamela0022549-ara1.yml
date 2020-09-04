@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 427955
-00#VERS#LENGTH###: 108674
+00#VERS#CLENGTH##: 443498
+00#VERS#LENGTH###: 112193
 00#VERS#URI######: 0319IbnMundhirNaysaburi.TafsirQuran.Shamela0022549-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/52098758
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/52098758
@@ -13,4 +13,5 @@
     Line 12; P 517 part 1232; P 535 Line 4; 3- A lot of errors in
     punctuation marks (commas appear instead of dots in many places).
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, EDITORIAL_SECTIONS, HTML_TAGS
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, EDITORIAL_SECTIONS,
+    HTML_TAGS
